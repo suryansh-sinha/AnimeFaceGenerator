@@ -32,3 +32,7 @@ The data has been preprocessed using `torchvision.transforms` by resizing, cropp
 
 # Training
 I have trained the model using the hyperparameters used in the original paper. Feel free to play with the parameters in the colab notebook. I am planning to convert this notebook into individual scripts in the future!
+
+# Results
+After training for 25 epochs, you can see the results in the GIF below -
+![](https://raw.github.com/suryansh-sinha/AnimeFaceGenerator/main/results.gif)
