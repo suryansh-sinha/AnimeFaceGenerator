@@ -35,4 +35,4 @@ I have trained the model using the hyperparameters used in the original paper. F
 
 # Results
 After training for 25 epochs, you can see the results in the GIF below -
-![](https://raw.github.com/suryansh-sinha/AnimeFaceGenerator/main/results.gif)
+![](./results.gif)
